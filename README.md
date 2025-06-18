@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarxemo
 - 👀 I’m interested in software development.
-- ![my profile image](tarxemo.jpg)
+- 
 - 🌱 I’m currently learning ML, AI, NLP, CNN
 - 💞️ I’m looking to collaborate on any project related to my technology stack
 - 📫 reach me through email tarxemo@gmail.com
