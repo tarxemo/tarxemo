@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">🔥 TAR XEMO 🔥</h1>
 <h3 align="center">AI & Full-Stack Developer | Open-Source Contributor | Tech Innovator</h3>
 
