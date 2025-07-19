@@ -53,10 +53,3 @@ class Tarxemo:
   <img src="https://github-readme-stats.vercel.app/api?username=tarxemo&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarxemo&theme=radical" alt="GitHub Streak" width="400">
 </p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-![](https://github-profile-trophy.vercel.app/?username=tarxemo&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
-
-</p>
