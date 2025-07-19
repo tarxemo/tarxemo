@@ -1,6 +1,3 @@
-Here’s a **ready-to-copy-paste**, animated, and visually appealing GitHub profile README that works immediately. Just paste this into your `README.md` file on your GitHub profile repository (`tarxemo/tarxemo`):
-
----
 
 ```markdown
 <h1 align="center">🔥 TAR XEMO 🔥</h1>
@@ -12,7 +9,6 @@ Here’s a **ready-to-copy-paste**, animated, and visually appealing GitHub prof
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
----
 
 ### **🚀 Quick Intro**
 ```python
