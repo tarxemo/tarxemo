@@ -5,10 +5,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Expert;Full-Stack+Developer;Microservices+Architect;Open-Source+Contributor;Tech+Innovation+Leader)
 
+[![committers.top rank 🇹🇿](https://user-badge.committers.top/tanzania_private/tarxemo.svg?style=for-the-badge)](https://user-badge.committers.top/tanzania_private/tarxemo)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://mtawa.tarxemo.com/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code@tarxemo.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar-xemo)
-[![committers.top rank 🇹🇿](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
 
 <img src="https://komarev.com/ghpvc/?username=tarxemo&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
