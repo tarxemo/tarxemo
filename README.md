@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code@tarxemo.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tar-xemo)
 [![Tanzania Rank](https://img.shields.io/badge/🇹🇿_Tanzania_Rank-Top_Contributor-gold?style=for-the-badge&logo=github)](https://committers.top/tanzania_private)
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
 
 <img src="https://komarev.com/ghpvc/?username=tarxemo&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
