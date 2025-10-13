@@ -52,6 +52,7 @@ I'm a passionate AI architect and full-stack developer from Tanzania, dedicated 
 
 ---
 
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -67,6 +68,7 @@ I'm a passionate AI architect and full-stack developer from Tanzania, dedicated 
 
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
 ---
 
 ## 🏆 **Achievements**
@@ -75,6 +77,7 @@ I'm a passionate AI architect and full-stack developer from Tanzania, dedicated 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tarxemo&theme=tokyonight&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
 </div>
 
 ---
