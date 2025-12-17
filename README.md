@@ -19,7 +19,7 @@
 
 ## 👋 **Welcome to My Digital Hub!**
 
-I'm a passionate AI architect and full-stack developer from Tanzania, dedicated to building innovative solutions that bridge technology and real-world impact. With expertise spanning artificial intelligence, microservices architecture, and cloud-native development, I thrive on creating systems that solve complex problems.
+I'm AI architect and full-stack developer from Tanzania, dedicated to building innovative solutions that bridge technology and real-world impact. With expertise spanning artificial intelligence, microservices architecture, and cloud-native development, I thrive on creating systems that solve complex problems.
 
 ---
 
