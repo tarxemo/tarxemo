@@ -74,7 +74,7 @@ I'm AI architect and full-stack developer from Tanzania, dedicated to building i
 ## 🏆 **Achievements**
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarxemo&theme=tokyonight&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github.tarxemo.com/badges/tarxemo/trophies/)](https://github.tarxemo.com/github/user/tarxemo/)
 
 [![committers.top badge](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
 </div>
