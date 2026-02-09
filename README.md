@@ -76,13 +76,8 @@ I'm AI architect and full-stack developer from Tanzania, dedicated to building i
 
 [![trophy](https://github.tarxemo.com/badges/tarxemo/trophies/)](https://github.tarxemo.com/github/user/tarxemo/)
 
-[![committers.top badge](https://user-badge.committers.top/tanzania_private/tarxemo.svg)](https://user-badge.committers.top/tanzania_private/tarxemo)
 </div>
-<div align="center">
 
-[![GitHub Streak](http://github.tarxemo.com/badges/tarxemo/stats/?theme=cyberpunk&animated=true)](https://github.tarxemo.com/github/user/tarxemo/)
-
-</div>
 
 ---
 
