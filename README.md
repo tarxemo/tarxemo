@@ -58,6 +58,12 @@ I'm AI architect and full-stack developer from Tanzania, dedicated to building i
 
 <div align="center">
 
+<img src="https://github-trophies.vercel.app/?username=tarxemo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarxemo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
